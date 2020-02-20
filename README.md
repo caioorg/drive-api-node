@@ -4,8 +4,8 @@ NodeJS - GoogleDrive API
 This project developed as a form of study using some libraries.
 
 - FS support via [fs](https://www.npmjs.com/package/fs)
-- GoogleDrive API [googleapis] (https://www.npmjs.com/package/googleapis)
-- ReadLine by - [readline] (https://www.npmjs.com/package/readline)
+- GoogleDrive API [googleapis](https://www.npmjs.com/package/googleapis)
+- ReadLine by - [readline](https://www.npmjs.com/package/readline)
 
 ## Functional requirements:
 

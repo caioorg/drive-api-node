@@ -1,7 +1,7 @@
 NodeJS - GoogleDrive API
 ======================================
 
-This project developed as a form of study using some libraries.
+This project was developed so that the user can upload files behind NodeJS.
 
 - FS support via [fs](https://www.npmjs.com/package/fs)
 - GoogleDrive API [googleapis](https://www.npmjs.com/package/googleapis)
